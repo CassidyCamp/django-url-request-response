@@ -1,1 +1,0 @@
-# django-url-request-response
